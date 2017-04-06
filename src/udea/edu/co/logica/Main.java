@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 import udea.edu.co.logica.modelo.PrincipalController;
 
-
+//johny marin gutierrez
 public class Main extends Application {
 	
 	private Stage escenarioPrincipal;
